@@ -1,0 +1,4 @@
+Flask
+Flask-Cors
+prometheus_client
+gunicorn
